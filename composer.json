@@ -1,0 +1,6 @@
+{
+    "name": "wnikiti4/start",
+    "require":{
+        "infrajs/router":"~1"
+    }
+}
